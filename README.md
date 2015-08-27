@@ -1,2 +1,4 @@
 # on-air-light
-Source code for the Connected On Air Light Instructable
+Source code for Uncorked Studio's Connected On Air Light Instructable:
+http://www.instructables.com/id/Connected-Studio-Warning-Light/
+
